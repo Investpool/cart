@@ -1,0 +1,72 @@
+.label-default {
+    background-color: black;
+    border-radius: none;
+}
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: none;
+}
+.img {
+    border: none;
+}
+
+.mok{
+	align-items: right;
+}
+.col-a{
+	background-color: lightgrey;
+	border-radius: 20px;
+	margin-top: 10px;
+	margin-right: 5px;
+    width: 15%;
+    height: 40px;
+    padding-top: 0;
+}
+.btn-block{
+	background-color: black;
+	color: #fff;
+	margin-bottom: 20px;
+}
+.wireframe{
+	
+    text-align: center;
+}
+.btn-sm{
+	float: right;
+	background-color: black;
+	color: white;
+	margin-bottom: 10px;
+}
+.align,.mp,.co,.vp{
+    text-align: center;
+}
+.fit{
+	flex-direction: center;
+    height: 5px;
+    width: 50px;
+    background-color: yellow;
+    text-align: center;
+}
+.shift{
+    bordr: 1px solid black;
+}
+.nine-firsj{
+    border:  solid black;
+}
+.try{
+    margin-left: 20px;
+}
+.sppt{
+    text-align: center;
+}
+.allow{
+    background-color: none;
+}
